@@ -13,7 +13,10 @@ start rmiregistry
 java ChatServer
 
 
-Add All the file on client machine without ChatServer.java And ChatServer.class file
+Add All the file on client machine without ChatServer.java and start ChatServer.class like
+
+java ChatServer.java
+
 Start The Chat
 
 Thaknk You
